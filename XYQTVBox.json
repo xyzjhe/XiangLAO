@@ -2,31 +2,15 @@
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "./custom_spider原画在前0907.jar",
     "lives": [
-        {
-          "name": "直播",
-          "type": 0,
-          "playerType": 1,
-          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-          //"url": "clan://XYQTVBox/live.txt",
-          //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          //"logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                    //"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]
-                    //"urls": ["proxy://do=live&type=txt&ext=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"]
-                    //"urls": ["proxy://do=live&type=txt&ext=http://dlq.gmqd.com/upload/20220921115985878587.txt"]
-                    "urls": ["proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"]
-                }
-            ]
-        }
-    ],
+           {
+             "name": "直播",
+             "type": 0,
+             "playerType": 1,
+             "url": "https://agit.ai/laozou/mtv/raw/branch/master/live0907.txt",
+             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+             "logo": "http://diyp.112114.xyz/logo/{name}.png"
+           }
+         ],
     "sites": [
         {"key":"drpy_js_豆瓣","name":"🐰┃豆瓣JS┃🐰","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
         {"key":"drpy_js_荐片","name":"荐片|影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
