@@ -15,9 +15,8 @@
         {"key":"drpy_js_豆瓣","name":"🧸┃豆瓣JS┃🧸","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
         {"key":"drpy_js_荐片","name":"荐片|影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
 
-        {"key":"drpy_js_爱看机器人2","name":"爱看|机器v2[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
-        {"key":"drpy_js_爱看机器人3","name":"爱看|机器v3[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot3.js"},
-
+        {"key": "drpy_js_QQ","name": "🐧┃企鹅QQ┃4K🐧","type": 3,"api": "./QQ/QQ4K.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./QQ/qq4k.js"}, 
+	    
         {"key": "drpy_js_腾云驾雾","name": "🐧腾讯┃JS","type": 3, "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/腾云驾雾.js" },
         {"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺┃JS", "type": 3, "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/奇珍异兽.js" },
         {"key": "drpy_js_优酷", "name": "🆒优酷┃JS", "type": 3, "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/优酷.js" },
