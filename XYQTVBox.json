@@ -15,7 +15,17 @@
         {"key":"drpy_js_豆瓣","name":"🧸┃豆瓣JS┃🧸","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
         {"key":"drpy_js_荐片","name":"荐片|影视[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
 
-        {"key": "drpy_js_QQ","name": "🐧┃企鹅QQ┃4K🐧","type": 3,"api": "./QQ/QQ4K.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./QQ/qq4k.js"}, 
+        {"key": "drpy_js_QQ","name": "🐧┃企鹅QQ┃4K🐧","type": 3,"api": "./QQ/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./QQ/qq4k.js"}, 
+
+	{"key": "drpy_js_QQ2","name": "🐧┃企鹅QQ┃2K🐧","type": 3,"api": "./QQ/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./QQ/腾云驾雾.js"}, 
+
+	{"key": "drpy_js_腾云驾雾1","name": "🐧腾讯2K┃JS","type": 3, "api": "./QQ/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext":"./QQ/腾云驾雾.js" },
+        {"key": "drpy_js_奇珍异兽1","name": "🥝爱奇艺2K┃JS", "type": 3, "api":"./QQ/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "./QQ/奇珍异兽.js" },
+        {"key": "drpy_js_优酷1", "name": "🆒优酷2K┃JS", "type": 3, "api": "./QQ/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./QQ/优酷.js" },
+        {"key": "drpy_js_百忙无果1", "name": "🥭芒果2K┃JS", "type": 3,  "api": "./QQ/drpy2.min.js", "searchable": 1,  "quickSearch": 1, "filterable": 0,  "ext": "./QQ/百忙无果.js" },
+        {"key": "drpy_js_搜狐1", "name": "🐶搜狐2K┃JS",  "type": 3,  "api": "./QQ/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./QQ/菜狗.js" }, 
+	{"key": "drpy_js_3601", "name": "🌏360影视2K┃JS",  "type": 3,  "api": "./QQ/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./QQ/360影视.js" }, 
+
 	    
         {"key": "drpy_js_腾云驾雾","name": "🐧腾讯┃JS","type": 3, "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/腾云驾雾.js" },
         {"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺┃JS", "type": 3, "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/js/奇珍异兽.js" },
