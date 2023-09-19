@@ -21,8 +21,6 @@
 
         {"key": "drpy_js_QQ","name": "🐧┃企鹅QQ┃4K🐧","type": 3,"api": "./JS/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./QQ/qq4k.js"}, 
 
-	{"key": "drpy_js_QQ2","name": "🐧┃企鹅QQ┃2K🐧","type": 3,"api": "./JS/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "./QQ/腾云驾雾.js"}, 
-
 	{"key": "drpy_js_腾云驾雾1","name": "🐧腾讯2K┃JS","type": 3, "api": "./JS/lib/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 0, "ext":"./QQ/腾云驾雾.js" },
         {"key": "drpy_js_奇珍异兽1","name": "🥝爱奇艺2K┃JS", "type": 3, "api":"./JS/lib/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 0, "ext": "./QQ/奇珍异兽.js" },
         {"key": "drpy_js_优酷1", "name": "🆒优酷2K┃JS", "type": 3, "api": "./JS/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./QQ/优酷.js" },
@@ -190,7 +188,7 @@
         {"name":"-剖云-","type":0,"url":"https://www.kkvip2022.com/vip/jiexi1/?url="},
         {"name":"-全看-","type":0,"url":"https://jx.quankan.app/?url="},
 
-	 {"name":"腾讯4K","type":1,"url":"http://119.91.31.224:82/txqq.php?url=","ext":{"flag": ["qq","腾讯"]}},
+	{"name":"腾讯4K","type":1,"url":"http://119.91.31.224:82/txqq.php?url=","ext":{"flag": ["qq","腾讯"]}},
 
 	{"name":"QQ4K","type":1,"url":"http://111.229.142.154/jxtxqq.php?url="},
 
